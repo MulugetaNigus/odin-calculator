@@ -8,4 +8,4 @@ mainly used technologies are:
                 - javascript
 those technologies help me to build such a kind of calculator project
 
-live demo: 
+live demo: https://mulugetanigus.github.io/odin-calculator/
